@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="BigIntField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="BigIntField"/>
+    </fileobject>
+    <fileobject name="BooleanField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="BooleanField"/>
+    </fileobject>
+    <fileobject name="CharField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="CharField"/>
+    </fileobject>
+    <fileobject name="DateField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="DateField"/>
+    </fileobject>
+    <fileobject name="DecimalField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="DecimalField"/>
+    </fileobject>
+    <fileobject name="DoubleField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="DoubleField"/>
+    </fileobject>
+    <fileobject name="FloatField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="FloatField"/>
+    </fileobject>
+    <fileobject name="IntField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="IntField"/>
+    </fileobject>
+    <fileobject name="NumericField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="NumericField"/>
+    </fileobject>
+    <fileobject name="RealField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="RealField"/>
+    </fileobject>
+    <fileobject name="SmallIntField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="SmallIntField"/>
+    </fileobject>
+    <fileobject name="TextField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="TextField"/>
+    </fileobject>
+    <fileobject name="TimeField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="TimeField"/>
+    </fileobject>
+    <fileobject name="TimeStampField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="TimeStampField"/>
+    </fileobject>
+    <fileobject name="VarCharField.java">
+        <attr name="class_dependency_com.wesleyware.daowiz.Field" stringvalue="VarCharField"/>
+    </fileobject>
+</attributes>
